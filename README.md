@@ -62,7 +62,14 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+<p>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap</p>
+<p>BackEnd: Node.js, Express.js</p>
+<p>Databases: MySQL/PostgreSQL, MongoDB</p>
+<p>Other: Git/GitHub, Figma, Scrum</p>
+<p>Other languages: PHP, Visual FoxPro, Visual Basic</p>
+<p>Methodologies: Object Oriented Programming, Unified Modeling Language</p>
 
 
 ## Connect with me  
@@ -72,7 +79,8 @@
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-al-shabk-b05b93188/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<p>Email: abdullah.shabk@gmail.com</p>
 </div>  
   
 
