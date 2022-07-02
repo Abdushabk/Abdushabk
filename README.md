@@ -4,7 +4,7 @@
 ### <div align="center">I'm Abdullah, a full-time full-stack developer </div>  
   
 
-- 🔭 Junior Web Developer 
+- 🔭 Junior full-stack Web Developer 
 -    Web designer 
   
 
@@ -64,12 +64,15 @@
 
 <br/>
 
-<p>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap</p>
-<p>BackEnd: Node.js, Express.js</p>
-<p>Databases: MySQL/PostgreSQL, MongoDB</p>
-<p>Other: Git/GitHub, Figma, Scrum</p>
-<p>Other languages: PHP, Visual FoxPro, Visual Basic</p>
-<p>Methodologies: Object Oriented Programming, Unified Modeling Language</p>
+<ul>
+<text>
+<li>FrontEnd: Javascript/React, Express, Responsive Web Designing with HTML5/CSS3 with Bootstrap </li>
+<li>BackEnd: Node.js, Express.js</li>
+<li>Databases: MySQL/PostgreSQL, MongoDB</li>
+<li>Other: Git/GitHub, Figma, Scrum</li>
+<li>Other languages: PHP, Visual FoxPro, Visual Basic</li>
+<li>Methodologies: Object Oriented Programming, Unified Modeling Language </li>
+</ul>
 
 
 ## Connect with me  
@@ -92,19 +95,17 @@
 
 <br/>  
 
+<strong>WBS Coding School Bootcamp - Batch #20 (Sep-2021)</strong>
+<ul>
 
-## Recent Blog Posts  
-  
+<li><a href="https://vrw-gh.github.io/final-project-wd020/" target="_blank">
+    <button>FINAL Project (Share My Food)</button>
+</a></li>
+<li><a href="https://vrw-gh.github.io/sharemyfood-backend/" target="_blank">
+    <button>Backend API for group project</button>
+</a></li>
+</ul>
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/Abdushabk" target="_blank" style="display: inline-block;">
