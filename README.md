@@ -4,8 +4,8 @@
 ### <div align="center">I'm Abdullah, a full-time full-stack developer </div>  
   
 
-- 🔭 Junior full-stack Web Developer 
--    Web designer 
+- 🔭 full-stack web dev graduate 
+-    Web designer
   
 
 <br/>  
